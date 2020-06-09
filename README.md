@@ -1,4 +1,8 @@
-# BLSOM
+# Language: C++
+# Input: CSV
+# Output: CSV
+# Tested with: PluMA 1.0, GCC 4.8.4
+
 BLSOM unsupervised neural net for clustering/visualizing high-dimensional data (Nakao et al, 2013)
 
 The plugin accepts as input a prefix for the location of the BLSOM program.
