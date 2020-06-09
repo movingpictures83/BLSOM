@@ -1,0 +1,2 @@
+Prefix plugins/BLSOM/example/
+Plugin BLSOM inputfile ../../../..//tools/BLSOM outputfile none
