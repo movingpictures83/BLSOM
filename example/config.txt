@@ -1,2 +1,2 @@
 Prefix plugins/BLSOM/example/
-Plugin BLSOM inputfile ../../../..//tools/BLSOM outputfile none
+Plugin BLSOM inputfile /usr/share/BLSOM outputfile none
